@@ -58,7 +58,7 @@ Git, GitHub, Jenkins (CI/CD), Jasmine, Karma, Agile/Scrum
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soujanyaachandra&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soujanyaachandra&show_icons=true&theme=default" />
 </p>
 
 ---
