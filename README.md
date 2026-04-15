@@ -73,8 +73,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soujanyaachandra&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soujanyaachandra&show_icons=true&theme=github_dark&bg_color=00000000" />
 </p>
+
 
 
 ---
