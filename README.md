@@ -23,33 +23,17 @@
 
 ### 🚀 Tech Stack
 
-#### 🖥 Frontend
+**Frontend:**
+Angular (RxJS, NgRx, Angular Material), TypeScript, JavaScript, HTML, CSS, Bootstrap, React.js
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap" />
-</p>
+**Architecture & Concepts:**
+Component-Based Architecture, Reactive Programming (RxJS), State Management (NgRx), REST API Integration
 
-#### ⚙️ Architecture & Tools
+**Data & Visualization:**
+Python, SQL, Highcharts, Matplotlib
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-* RxJS, NgRx, REST APIs
-* Angular Material, ag-grid
-* CI/CD (Jenkins), Testing (Jasmine, Karma)
-
----
-
-### 📊 Data & Visualization
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-* Python, SQL
-* Highcharts, Matplotlib
-* Data Analysis & Visualization
+**Tools & Practices:**
+Git, GitHub, Jenkins (CI/CD), Jasmine, Karma, Agile/Scrum
 
 ---
 
