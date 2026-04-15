@@ -1,89 +1,85 @@
-# 👋 Hi, I'm Soujanya
+<h1 align="center">Hi 👋, I'm Soujanya</h1>
+<h3 align="center">Frontend Engineer (Angular Specialist) | Web & Data Science Master's Student</h3>
 
-🎯 Frontend Engineer (Angular Specialist) | 📊 Web & Data Science Master's Student
-
-I am a Frontend Engineer with 4+ years of experience building scalable, enterprise-grade web applications using Angular and TypeScript.
-
-Currently pursuing a Master’s in Web & Data Science, with a strong interest in **data-driven applications, analytics dashboards, and intelligent user interfaces**.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+### 👨‍💻 About Me
 
-### 🖥 Frontend
+* 💼 4+ years experience building **enterprise Angular applications**
+* 🚀 Specialized in **scalable frontend architecture**
+* 📊 Strong interest in **data-driven applications & analytics dashboards**
+* 🎓 MSc in Web & Data Science (Germany)
 
-* Angular (RxJS, NgRx, Angular Material)
-* React.js
-* TypeScript, JavaScript (ES6+)
-* HTML5, CSS3, Bootstrap
+---
 
-### ⚙️ Architecture & Concepts
+### 🚀 Tech Stack
 
-* Component-Based Architecture
-* Reactive Programming (RxJS)
-* State Management (NgRx)
-* REST API Integration
+#### 🖥 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap" />
+</p>
+
+#### ⚙️ Architecture & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+* RxJS, NgRx, REST APIs
+* Angular Material, ag-grid
+* CI/CD (Jenkins), Testing (Jasmine, Karma)
+
+---
 
 ### 📊 Data & Visualization
 
-* Highcharts, Matplotlib
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
 * Python, SQL
+* Highcharts, Matplotlib
 * Data Analysis & Visualization
 
-### 🛠 Tools & Practices
-
-* Git, GitHub
-* CI/CD (Jenkins)
-* Unit Testing (Jasmine, Karma)
-* Agile / Scrum
-
 ---
 
-## 💼 Professional Experience
+### 🌟 Featured Projects
 
-### 🔹 Senior Engineer — Renault Nissan Technology & Business Centre
+#### 🔹 Recruitment Bias Analysis
 
-* Developed scalable Angular applications in Agile environments
-* Built reusable UI components using Angular Material and ag-grid
-* Implemented state management and reactive data flows using RxJS and NgRx
-* Collaborated on requirement analysis, sprint planning, and delivery
-
-### 🔹 System Engineer — Tata Consultancy Services (TCS)
-
-* Built responsive Single Page Applications using Angular and Bootstrap
-* Integrated RESTful APIs and handled asynchronous operations using RxJS
-* Implemented data visualization using Highcharts
-* Worked on CI/CD pipelines and deployment using Jenkins
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 Recruitment Bias Analysis (ML Project)
-
-* Analyzed bias in recruitment systems using NLP models
-* Applied statistical techniques and fairness evaluation metrics
-* Focus on ethical AI and data-driven insights
+* NLP-based analysis of recruitment bias
+* Focus on fairness and ethical AI
 
 👉 https://github.com/soujanyaachandra/Recruitment_Bias_Analysis
 
 ---
 
-### 🔹 (Upcoming) Angular Analytics Dashboard
+#### 🔹 (Upcoming) Angular Analytics Dashboard
 
-* Scalable dashboard with data visualization and API integration
-* Built using Angular, RxJS, and Highcharts
-* Focus on performance, modular architecture, and real-time data
-
----
-
-## 📈 GitHub Stats
-
-![Soujanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soujanyaachandra\&show_icons=true)
+* Enterprise-style dashboard with charts and API integration
+* Angular + RxJS + Highcharts
 
 ---
 
-## 📚 Currently Learning
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soujanyaachandra&show_icons=true" />
+</p>
+
+---
+
+### 📚 Currently Learning
 
 * Advanced Data Science & Machine Learning
 * Scalable Frontend Architecture
@@ -91,6 +87,6 @@ Currently pursuing a Master’s in Web & Data Science, with a strong interest in
 
 ---
 
-## 🤝 Connect
+### 🤝 Connect
 
-* LinkedIn: [www.linkedin.com/in/lakshmi-soujanya-chandra](https://www.linkedin.com/in/lakshmi-soujanya-chandra/)
+* LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/lakshmi-soujanya-chandra/)
