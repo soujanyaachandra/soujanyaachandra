@@ -72,7 +72,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center" background color="black">
+<p align="center" style="background-color:none">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soujanyaachandra&show_icons=true&theme=default" />
 </p>
 
