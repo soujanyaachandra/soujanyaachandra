@@ -2,13 +2,14 @@
 <h3 align="center">Frontend Engineer (Angular Specialist) | Web & Data Science Master's Student</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/lakshmi-soujanya-chandra/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/lakshmi-soujanya-chandra/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lakshmisoujanyach4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
